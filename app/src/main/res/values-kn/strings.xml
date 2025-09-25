@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">ಹಿಂಟರ್‌ಲ್ಯಾಂಡ್</string>
+
+    <!-- Login -->
+    <string name="login_title">ಲಾಗಿನ್</string>
+    <string name="login_email_hint">ಇಮೇಲ್</string>
+    <string name="login_password_hint">ಪಾಸ್ವರ್ಡ್</string>
+    <string name="login_button">ಲಾಗಿನ್</string>
+    <string name="login_register_link">ಖಾತೆ ರಚಿಸಿ</string>
+    <string name="login_success">ಲಾಗಿನ್ ಯಶಸ್ವಿ</string>
+    <string name="login_invalid">ಅಮಾನ್ಯ ವಿವರಗಳು</string>
+    <string name="login_failed">ಲಾಗಿನ್ ವಿಫಲವಾಯಿತು</string>
+    <string name="no_internet">ಇಂಟರ್‌ನೆಟ್ ಸಂಪರ್ಕ ಇಲ್ಲ</string>
+    <string name="unexpected_error">ಅನಿರೀಕ್ಷಿತ ದೋಷ</string>
+    <string name="mandatory_fields">(* - ಕಡ್ಡಾಯ ಕ್ಷೇತ್ರಗಳು)</string>
+
+    <!-- Language dialog -->
+    <string name="language_choose_title">ಭಾಷೆ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="language_english">English</string>
+    <string name="language_hindi">ಹಿಂದಿ</string>
+    <string name="language_kannada">ಕನ್ನಡ</string>
+    <string name="action_done">ಮುಗಿಯಿತು</string>
+    <string name="action_cancel">ರದ್ದುಮಾಡಿ</string>
+
+    <!-- Register -->
+    <string name="register_name_hint">ಹೆಸರು</string>
+    <string name="register_email_hint">ಇಮೇಲ್</string>
+    <string name="register_password_hint">ಪಾಸ್ವರ್ಡ್</string>
+    <string name="register_button">ನೋಂದಣಿ</string>
+    <string name="register_back_to_login">ಲಾಗಿನ್‌ಗೆ ಹಿಂತಿರುಗಿ</string>
+    <string name="register_confirm_password_hint">ಪಾಸ್ವರ್ಡ್ ದೃಢೀಕರಿಸಿ *</string>
+
+    <!-- Common alert dialog -->
+    <string name="default_alert_message">ಏನೋ ತಪ್ಪಾಗಿದೆ</string>
+    <string name="ok">ಸರಿ</string>
+    <string name="username">ಬಳಕೆದಾರ ಹೆಸರು</string>
+    <string name="createAccount">ಖಾತೆ ರಚಿಸಿ</string>
+    <string name="first_name">ಮೊದಲ ಹೆಸರು</string>
+    <string name="last_name">ಕೊನೆಯ ಹೆಸರು</string>
+    <string name="phone_number">ಫೋನ್ ಸಂಖ್ಯೆ</string>
+    <string name="prompt_gender_required">ಲಿಂಗ *</string>
+    <string name="prompt_role_required">ಪಾತ್ರ *</string>
+    <string name="back">ಹಿಂದೆ</string>
+    <string name="Register">ರಿಜಿಸ್ಟರ್</string>
+
+    <!-- Validation errors -->
+    <string name="error_phone_exact_10">ಕಡ್ಡಾಯವಾಗಿ 10 ಅಂಕೆಗಳು ನಮೂದಿಸಿ</string>
+    <string name="error_password_min_8">ಕನಿಷ್ಠ 8 ಅಕ್ಷರಗಳು</string>
+    <string name="error_passwords_mismatch">ಗುಪ್ತಪದಗಳು ಹೊಂದಿಕೆಯಾಗಿಲ್ಲ</string>
+    <string name="error_email_invalid">ದಯವಿಟ್ಟು ಮಾನ್ಯ ಇಮೇಲ್ ನಮೂದಿಸಿ</string>
+
+    <!-- Error messages -->
+    <string name="error_all_fields_required">ಎಲ್ಲಾ ಕ್ಷೇತ್ರಗಳು ಅಗತ್ಯ</string>
+    <string name="error_no_internet">ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕವಿಲ್ಲ</string>
+    <string name="error_registration_failed">ನೋಂದಣಿ ವಿಫಲ</string>
+    <string name="error_unexpected">ಅನಿರೀಕ್ಷಿತ ದೋಷ ಸಂಭವಿಸಿದೆ</string>
+    <string name="register_success">ನೋಂದಣಿ ಯಶಸ್ವಿ</string>
+
+    <string name="find_trusted">ನಿಮ್ಮ ಹತ್ತಿರ ವಿಶ್ವಾಸಾರ್ಹ ಕಾರ್ಮಿಕರನ್ನು ಹುಡುಕಿ.\nಕೆಲಸವನ್ನು ಬೇಗ ಮುಗಿಸಿ.</string>
+    <string name="app_aim">ಹಿಂಟರ್‌ಲ್ಯಾಂಡ್ ಕೆಲಸ ನೀಡುವವರನ್ನು ದೃಢೀಕರಿಸಿದ ಆಪರೇಟರ್‌ಗಳೊಂದಿಗೆ ಸಂಪರ್ಕಿಸುತ್ತದೆ – ನಿರ್ಮಾಣ, ದುರಸ್ತಿ, ಲಾಜಿಸ್ಟಿಕ್ಸ್ ಮತ್ತು ಇನ್ನಷ್ಟುಗಾಗಿ. ನಿಮ್ಮ ಅಗತ್ಯಗಳನ್ನು ಪೋಸ್ಟ್ ಮಾಡಿ ಅಥವಾ ಲಭ್ಯವಿರುವ ಆಪರೇಟರ್‌ಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ.</string>
+    <string name="search_operators">ಆಪರೇಟರ್‌ಗಳನ್ನು ಹುಡುಕಿ</string>
+    <string name="features">ವೈಶಿಷ್ಟ್ಯಗಳು</string>
+    <string name="verified_operators_land">ದೃಢೀಕರಿಸಿದ ಆಪರೇಟರ್‌ಗಳು\nಆಪರೇಟರ್ ಪ್ರೊಫೈಲ್‌ಗಳು, ರೇಟಿಂಗ್‌ಗಳು ಮತ್ತು ಕೌಶಲ್ಯಗಳನ್ನು ನೋಡಿ ನಂತರ ನೇಮಿಸಿ.</string>
+    <string name="smart_matching_land">ಸ್ಮಾರ್ಟ್ ಮ್ಯಾಚಿಂಗ್\nಕೆಲಸವನ್ನು ಪೋಸ್ಟ್ ಮಾಡಿ ಮತ್ತು ಹತ್ತಿರದ, ಸೂಕ್ತ ಆಪರೇಟರ್‌ಗಳನ್ನು ಹೊಂದಿಸಿ.</string>
+    <string name="realtime_landing">ರಿಯಲ್-ಟೈಮ್ ಅಪ್ಡೇಟ್‌ಗಳು\nನಿಮ್ಮ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್‌ನಿಂದ ಕಾರ್ಯ ನಿಯೋಜನೆ ಮತ್ತು ಸ್ಥಿತಿಯನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಿ.</string>
+    <string name="how_it_works">ಇದು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ</string>
+    <string name="step_1">ಹಂತ 1 - ಖಾತೆ ರಚಿಸಿ\nಕೆಲಸ ನೀಡುವವರು ಅಥವಾ ಆಪರೇಟರ್ ಆಗಿ ಸೈನ್ ಅಪ್ ಮಾಡಿ.</string>
+    <string name="step_2">ಹಂತ 2 - ಪೋಸ್ಟ್ ಅಥವಾ ಹುಡುಕಿ\nಕೆಲಸ ನೀಡುವವರು ಕೆಲಸ ಪೋಸ್ಟ್ ಮಾಡುತ್ತಾರೆ; ಆಪರೇಟರ್‌ಗಳು ಬ್ರೌಸ್ ಮಾಡಿ ಮತ್ತು ಅರ್ಜಿ ಹಾಕುತ್ತಾರೆ.</string>
+    <string name="step_3">ಹಂತ 3 - ನಿಯೋಜಿಸಿ ಮತ್ತು ಟ್ರ್ಯಾಕ್ ಮಾಡಿ\nಆಪರೇಟರ್‌ಗಳನ್ನು ನಿಯೋಜಿಸಿ ಮತ್ತು ನಿಮ್ಮ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್‌ನಲ್ಲಿ ಪ್ರಗತಿಯನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಿ.</string>
+    <string name="unknown_location">ಅಜ್ಞಾತ ಸ್ಥಳ</string>
+    <string name="view">ನೋಡಿ</string>
+    <string name="explore_more">ಇನ್ನಷ್ಟು ಅನ್ವೇಷಿಸಿ</string>
+    <string name="explore_more_skills">ಇನ್ನಷ್ಟು ಕೌಶಲ್ಯಗಳನ್ನು ಅನ್ವೇಷಿಸಿ</string>
+    <string name="skills">ಕೌಶಲ್ಯಗಳು</string>
+    <string name="sort">ವಿಂಗಡಿಸಿ</string>
+    <string name="searchOperators">ಆಪರೇಟರ್‌ಗಳನ್ನು ಹುಡುಕಿ</string>
+    <string name="filter">ಫಿಲ್ಟರ್</string>
+    <string name="available">ಲಭ್ಯವಿದೆ</string>
+    <string name="view_details">ವಿವರಗಳನ್ನು ನೋಡಿ</string>
+    <string name="share">ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="findOperatorsTitle">ಆಪರೇಟರ್‌ಗಳನ್ನು ಹುಡುಕಿ</string>
+    <string name="invalid_username_or_password">ಅಮಾನ್ಯ ಬಳಕೆದಾರ ಹೆಸರು ಅಥವಾ ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="profile">ಪ್ರೊಫೈಲ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="upload_image">ಚಿತ್ರವನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="firstName">ಮೊದಲ ಹೆಸರು</string>
+    <string name="lastName">ಕೊನೆಯ ಹೆಸರು</string>
+    <string name="userName">ಬಳಕೆದಾರರ ಹೆಸರು</string>
+    <string name="changePassword">ಪಾಸ್ವರ್ಡ್ ಬದಲಾಯಿಸಿ</string>
+    <string name="newPassword">ಹೊಸ ಪಾಸ್ವರ್ಡ್</string>
+    <string name="confirmNewPassword">ಹೊಸ ಪಾಸ್ವರ್ಡ್ ದೃಢಪಡಿಸಿ</string>
+    <string name="updatePassword">ಪಾಸ್ವರ್ಡ್ ನವೀಕರಿಸಿ</string>
+    <string name="saveChanges">ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ</string>
+    <string name="verified_users_only">ದೃಢೀಕರಿಸಿದ ಬಳಕೆದಾರರು ಮಾತ್ರ</string>
+    <string name="available_users_only">ಲಭ್ಯವಿರುವ ಬಳಕೆದಾರರು ಮಾತ್ರ</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="any">ಯಾವುದೇ</string>
+    <string name="max_distance_km">ಗರಿಷ್ಠ ಅಂತರ (ಕಿ.ಮೀ)</string>
+    <string name="apply">ಅನ್ವಯಿಸಿ</string>
+
+</resources>
+
