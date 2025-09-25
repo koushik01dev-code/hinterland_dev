@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Hinterland</string>
+    <string name="hinterland_logo" translatable="false">Hinterland Logo</string>
+
+    <!-- Login -->
+    <string name="login_title">Login</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_register_link">Create account</string>
+    <string name="login_success">Login success</string>
+    <string name="login_invalid">Invalid credentials</string>
+    <string name="login_failed">Login failed</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="unexpected_error">Unexpected error</string>
+    <string name="mandatory_fields">(* - Mandatory fields)</string>
+
+    <!-- Language dialog -->
+    <string name="language_choose_title">Choose language</string>
+    <string name="language_english">English</string>
+    <string name="language_hindi">हिंदी</string>
+    <string name="language_kannada">ಕನ್ನಡ</string>
+    <string name="action_done">Done</string>
+    <string name="action_cancel">Cancel</string>
+
+    <!-- Register -->
+    <string name="register_name_hint">Name</string>
+    <string name="register_email_hint">Email *</string>
+    <string name="register_password_hint">Password *</string>
+    <string name="register_confirm_password_hint">Confirm password *</string>
+    <string name="register_button">Register</string>
+    <string name="register_back_to_login">Have an account? Login</string>
+    <string name="ind_num" translatable="false">+91</string>
+
+    <!-- Common alert dialog -->
+    <string name="default_alert_message">Something went wrong</string>
+    <string name="ok">Ok</string>
+    <string name="username">Username *</string>
+    <string name="back">Back</string>
+    <string name="first_name">First name *</string>
+    <string name="last_name">Last name *</string>
+    <string name="phone_number">Phone number *</string>
+    <string name="Register">Register</string>
+    <string name="createAccount">Create account</string>
+    <string name="prompt_gender_required">Gender *</string>
+    <string name="prompt_role_required">Role *</string>
+
+    <!-- Validation errors -->
+    <string name="error_phone_exact_10">Enter exactly 10 digits</string>
+    <string name="error_password_min_8">Minimum 8 characters</string>
+    <string name="error_passwords_mismatch">Passwords do not match</string>
+    <string name="error_email_invalid">Please enter a valid email address</string>
+
+    <!-- Error messages -->
+    <string name="error_all_fields_required">All fields are required</string>
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_registration_failed">Registration failed</string>
+    <string name="error_unexpected">Unexpected error occurred</string>
+    <string name="register_success">Registration successful</string>
+
+    <string name="share">Share</string>
+    <string name="findOperatorsTitle">Find Operators</string>
+    <string name="invalid_username_or_password">Invalid username or password</string>
+    <string name="find_trusted">Find trusted labour near you.\nGet work done fast.</string>
+    <string name="app_aim">Hinterland connects work providers with verified operators for construction, repairs, logistics and more. Post your requirements or browse available operators.</string>
+    <string name="search_operators">Search Operators</string>
+    <string name="features">Features</string>
+    <string name="verified_operators_land">Verified operators\nView operator profiles, ratings and skills before hiring.</string>
+    <string name="smart_matching_land">Smart matching\nPost a work and get matched to nearby, suitable operators.</string>
+    <string name="realtime_landing">Real-time updates\nTrack assignments and work status from your dashboard.</string>
+    <string name="how_it_works">How it works</string>
+    <string name="step_1">Step 1 - Create account\nSign up as Work Provider or Operator.</string>
+    <string name="step_2">Step 2 - Post or search\nWork Providers post works; Operators browse and apply.</string>
+    <string name="step_3">Step 3 - Assign &amp; track\nAssign operators and follow progress in your dashboard.</string>
+    <string name="unknown_location">Unknown location</string>
+    <string name="view">View</string>
+    <string name="explore_more">Explore More</string>
+    <string name="explore_more_skills">Explore more skills</string>
+    <string name="skills">Skills</string>
+    <string name="profile">Profile Settings</string>
+    <string name="image" translatable="false">image</string>
+    <string name="upload_image">Upload image</string>
+    <string name="firstName">First name</string>
+    <string name="lastName">Last name</string>
+    <string name="userName">Username</string>
+    <string name="changePassword">Change password</string>
+    <string name="newPassword">New password</string>
+    <string name="confirmNewPassword">Confirm new password</string>
+    <string name="updatePassword">Update password</string>
+    <string name="saveChanges">Save changes</string>
+    <string name="sort">Sort</string>
+    <string name="searchOperators">Search Operators</string>
+    <string name="filter">Filter</string>
+    <string name="available">Available</string>
+    <string name="view_details">View Details</string>
+    <string name="verified_users_only">Verified users only</string>
+    <string name="available_users_only">Available users only</string>
+    <string name="language">Language</string>
+    <string name="any">Any</string>
+    <string name="max_distance_km">Max distance (km)</string>
+    <string name="apply">Apply</string>
+
+</resources>
+

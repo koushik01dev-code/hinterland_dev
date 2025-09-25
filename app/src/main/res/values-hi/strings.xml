@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">हिंटरलैंड</string>
+
+    <!-- Login -->
+    <string name="login_title">लॉगिन</string>
+    <string name="login_email_hint">ईमेल</string>
+    <string name="login_password_hint">पासवर्ड</string>
+    <string name="login_button">लॉगिन</string>
+    <string name="login_register_link">खाता बनाएँ</string>
+    <string name="login_success">लॉगिन सफल</string>
+    <string name="login_invalid">अमान्य प्रमाण-पत्र</string>
+    <string name="login_failed">लॉगिन असफल</string>
+    <string name="no_internet">इंटरनेट कनेक्शन नहीं</string>
+    <string name="unexpected_error">अप्रत्याशित त्रुटि</string>
+
+    <!-- Language dialog -->
+    <string name="language_choose_title">भाषा चुनें</string>
+    <string name="language_english">English</string>
+    <string name="language_hindi">हिंदी</string>
+    <string name="language_kannada">कन्नड़</string>
+    <string name="action_done">ठीक</string>
+    <string name="action_cancel">रद्द करें</string>
+    <string name="mandatory_fields">(* - अनिवार्य फ़ील्ड)</string>
+
+    <!-- Register -->
+    <string name="register_name_hint">नाम</string>
+    <string name="register_email_hint">ईमेल</string>
+    <string name="register_password_hint">पासवर्ड</string>
+    <string name="register_button">रजिस्टर</string>
+    <string name="register_back_to_login">लॉगिन पर वापस जाएँ</string>
+    <string name="register_confirm_password_hint">पासवर्ड की पुष्टि करें *</string>
+
+    <!-- Common alert dialog -->
+    <string name="default_alert_message">कुछ गलत हुआ</string>
+    <string name="ok">ठीक</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="back">वापस</string>
+    <string name="createAccount">खाता बनाएँ</string>
+    <string name="first_name">पहला नाम</string>
+    <string name="last_name">अंतिम नाम</string>
+    <string name="phone_number">फोन नंबर</string>
+    <string name="prompt_gender_required">लिंग *</string>
+    <string name="prompt_role_required">भूमिका *</string>
+    <string name="Register">रजिस्टर</string>
+
+    <!-- Validation errors -->
+    <string name="error_phone_exact_10">सटीक 10 अंक दर्ज करें</string>
+    <string name="error_password_min_8">कम से कम 8 अक्षर</string>
+    <string name="error_passwords_mismatch">पासवर्ड मेल नहीं खाते</string>
+    <string name="error_email_invalid">कृपया मान्य ईमेल दर्ज करें</string>
+
+    <!-- Error messages -->
+    <string name="error_all_fields_required">सभी फ़ील्ड आवश्यक हैं</string>
+    <string name="error_no_internet">कोई इंटरनेट कनेक्शन नहीं</string>
+    <string name="error_registration_failed">पंजीकरण विफल</string>
+    <string name="error_unexpected">अप्रत्याशित त्रुटि हुई</string>
+    <string name="register_success">पंजीकरण सफल</string>
+
+    <string name="find_trusted">आपके पास विश्वसनीय मज़दूर खोजें।\nकाम जल्दी पूरा करें।</string>
+    <string name="app_aim">हिंटरलैंड काम देने वालों को सत्यापित ऑपरेटरों से जोड़ता है – निर्माण, मरम्मत, लॉजिस्टिक्स और अधिक के लिए। अपनी आवश्यकताएँ पोस्ट करें या उपलब्ध ऑपरेटरों को ब्राउज़ करें।</string>
+    <string name="search_operators">ऑपरेटर खोजें</string>
+    <string name="features">विशेषताएँ</string>
+    <string name="verified_operators_land">सत्यापित ऑपरेटर\nऑपरेटर प्रोफ़ाइल, रेटिंग और कौशल देखने के बाद ही हायर करें।</string>
+    <string name="smart_matching_land">स्मार्ट मिलान\nकाम पोस्ट करें और आस-पास के उपयुक्त ऑपरेटरों से जुड़ें।</string>
+    <string name="realtime_landing">रियल-टाइम अपडेट\nअपने डैशबोर्ड से असाइनमेंट और काम की स्थिति ट्रैक करें।</string>
+    <string name="how_it_works">यह कैसे काम करता है</string>
+    <string name="step_1">स्टेप 1 - अकाउंट बनाएं\nवर्क प्रोवाइडर या ऑपरेटर के रूप में साइन अप करें।</string>
+    <string name="step_2">स्टेप 2 - पोस्ट या खोजें\nवर्क प्रोवाइडर काम पोस्ट करें; ऑपरेटर ब्राउज़ करें और अप्लाई करें।</string>
+    <string name="step_3">स्टेप 3 - असाइन करें और ट्रैक करें\nऑपरेटर असाइन करें और डैशबोर्ड में प्रगति ट्रैक करें।</string>
+    <string name="unknown_location">अज्ञात स्थान</string>
+    <string name="view">देखें</string>
+    <string name="explore_more">और देखें</string>
+    <string name="explore_more_skills">और कौशल देखें</string>
+    <string name="skills">कौशल</string>
+    <string name="sort">सॉर्ट करें</string>
+    <string name="searchOperators">ऑपरेटर खोजें</string>
+    <string name="filter">फ़िल्टर</string>
+    <string name="available">उपलब्ध</string>
+    <string name="view_details">विवरण देखें</string>
+    <string name="share">साझा करें</string>
+    <string name="findOperatorsTitle">ऑपरेटर खोजें</string>
+    <string name="invalid_username_or_password">अमान्य उपयोगकर्ता नाम या पासवर्ड</string>
+    <string name="profile">प्रोफ़ाइल सेटिंग्स</string>
+    <string name="upload_image">छवि अपलोड करें</string>
+    <string name="firstName">पहला नाम</string>
+    <string name="lastName">अंतिम नाम</string>
+    <string name="userName">उपयोगकर्ता नाम</string>
+    <string name="changePassword">पासवर्ड बदलें</string>
+    <string name="newPassword">नया पासवर्ड</string>
+    <string name="confirmNewPassword">नया पासवर्ड पुष्टि करें</string>
+    <string name="updatePassword">पासवर्ड अपडेट करें</string>
+    <string name="saveChanges">परिवर्तन सहेजें</string>
+    <string name="verified_users_only">केवल सत्यापित उपयोगकर्ता</string>
+    <string name="available_users_only">केवल उपलब्ध उपयोगकर्ता</string>
+    <string name="language">भाषा</string>
+    <string name="any">कोई भी</string>
+    <string name="max_distance_km">अधिकतम दूरी (किमी)</string>
+    <string name="apply">लागू करें</string>
+
+</resources>
+
